@@ -49,7 +49,6 @@ from cryptography.fernet import Fernet
 import base64
 
 #### Ensure you are using Python 3.7 or higher.
-If tkinter is not available, you may need to install it separately (e.g., via your system package manager).
 
 ## Collaboration
 We are open to collaborating with researchers and developers who want to utilize or contribute to this tool. For any inquiries, feel free to contact us at:
