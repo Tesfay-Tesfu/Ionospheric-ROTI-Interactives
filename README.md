@@ -30,27 +30,27 @@ Where:
 ROTI is a valuable metric for identifying ionospheric irregularities, especially during geomagnetic storms or solar flares.
 
 
-### Prerequisites
+## Prerequisites
 Before running the code, ensure the following Python libraries are installed and available on your machine:
 
-# File handling and operations
+### File handling and operations
 import os
 import glob
 
-# Data manipulation
+### Data manipulation
 import pandas as pd
 import numpy as np
 
-# GUI for file selection
+### GUI for file selection
 import tkinter as tk
 from tkinter import filedialog
 from tkinter import simpledialog
 
-# Jupyter Notebook widgets
+### Jupyter Notebook widgets
 import ipywidgets as widgets
 from IPython.display import display
 
-# Security and encryption
+### Security and encryption
 from cryptography.hazmat.primitives.kdf.pbkdf2 import PBKDF2HMAC
 from cryptography.hazmat.backends import default_backend
 from cryptography.hazmat.primitives import hashes
