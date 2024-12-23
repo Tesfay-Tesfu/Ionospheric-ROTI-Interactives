@@ -2,15 +2,6 @@
 ## Overview
 This tool processes Total Electron Content (TEC) and calculates the Rate of TEC Index (ROTI) using data from both disturbed days and quiet days. It provides an interactive interface, allowing users to select elevation angles and upload TEC data folders for comparison. The output includes ROTI values computed for 30-second and 5-minute intervals.
 
-This project leverages the GOPI (GPS-TEC Processing Software) for preprocessing TEC data, ensuring accurate and reliable ionospheric data analysis.
-
-
-## TEC-ROTI Interactive Processing
-### Overview
-This tool processes Total Electron Content (TEC) and calculates the Rate of TEC Index (ROTI) using data from both disturbed days and quiet days. It provides an interactive interface, allowing users to select elevation angles and upload TEC data folders for comparison. The output includes ROTI values computed for 30-second and 5-minute intervals.
-
-This project leverages the GOPI (GPS-TEC Processing Software) for preprocessing TEC data, ensuring accurate and reliable ionospheric data analysis.
-
 ## TEC and ROTI Calculations
 
 ### Rate of TEC (ROT):
